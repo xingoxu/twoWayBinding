@@ -1,6 +1,8 @@
 # Two Way
 The simplest javascript two-way binding with 36 lines.
 
+![preview](http://imgur.com/download/Lt0NvcD)
+
 Live demo & playground at [here](https://jsfiddle.net/f0drz4g3/1/)
 
 
