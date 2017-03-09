@@ -1,6 +1,6 @@
 {
   "name": "two-way-binding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "javascript the simplest two-way binding",
   "main": "index.js",
   "scripts": {
