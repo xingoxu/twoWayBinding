@@ -1,0 +1,23 @@
+{
+  "name": "two-way-binding",
+  "version": "1.0.0",
+  "description": "javascript the simplest two-way binding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingoxu/twoWayBinding.git"
+  },
+  "keywords": [
+    "twoway",
+    "bind"
+  ],
+  "author": "xingo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xingoxu/twoWayBinding/issues"
+  },
+  "homepage": "https://github.com/xingoxu/twoWayBinding#readme"
+}
